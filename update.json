@@ -1,6 +1,6 @@
 {
-  "versionCode": 82,
-  "versionName": "0.4.81",
-  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.81/PandaStream.apk",
-  "releaseNotes": "Ripristinato il player VOD originale Media3, rimosse le sovrapposizioni personalizzate e mantenuto il logo del titolo. Correzione gestione Play/Pausa dal telecomando."
+  "versionCode": 93,
+  "versionName": "0.4.92",
+  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.92/PandaStream.apk",
+  "releaseNotes": "Home personalizzata con consigli più rigorosi per genere e Profilo Bambini con filtro catalogo lato server e Sport disabilitato. Correzioni di compilazione."
 }
