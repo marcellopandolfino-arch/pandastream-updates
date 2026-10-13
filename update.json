@@ -1,6 +1,6 @@
 {
-  "versionCode": 58,
-  "versionName": "0.4.57",
-  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.57/PandaStream.apk",
-  "releaseNotes": "Sport Premium: calendario con focus sulla giornata corrente, Match Center per data con sei giorni di partite, card compatte con loghi, Conference League e news in formato hero."
+  "versionCode": 61,
+  "versionName": "0.4.60",
+  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.60/PandaStream.apk",
+  "releaseNotes": "Miglioramenti alla login con telecomando e grafica Top 10 Premium. Include le migliorie Sport della versione precedente."
 }
