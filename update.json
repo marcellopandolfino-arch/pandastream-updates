@@ -1,6 +1,6 @@
 {
-  "versionCode": 78,
-  "versionName": "0.4.77",
-  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.77/PandaStream.apk",
-  "releaseNotes": "Correzione Dove vederla nel Match Center: priorità ai dati del server, ricerca più rapida e riconoscimento dei nomi alternativi delle squadre."
+  "versionCode": 82,
+  "versionName": "0.4.81",
+  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.81/PandaStream.apk",
+  "releaseNotes": "Ripristinato il player VOD originale Media3, rimosse le sovrapposizioni personalizzate e mantenuto il logo del titolo. Correzione gestione Play/Pausa dal telecomando."
 }
