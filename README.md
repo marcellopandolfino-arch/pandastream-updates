@@ -5,25 +5,24 @@ Questo repository pubblico distribuisce il manifest degli aggiornamenti in-app d
 Manifest letto dall'app:
 `https://raw.githubusercontent.com/marcellopandolfino-arch/pandastream-updates/main/update.json`
 
-## Pubblicare il primo APK con aggiornamenti automatici
+## Prima release con updater: versione 0.4.55
 
-1. Apri il progetto `PandaStream_V54_AUTO_UPDATE_CONFIGURED.zip` in Android Studio.
-2. Genera un APK **release firmato con la stessa chiave** usata per le versioni già distribuite.
-3. In questo repository crea una GitHub Release con tag `v0.4.55`.
-4. Carica il file come asset con nome esatto `PandaStream.apk`.
-5. Verifica che l'URL indicato in `update.json` restituisca l'APK.
+- Apri il progetto `PandaStream_V54_AUTO_UPDATE_NEW_KEY_READY.zip` in Android Studio.
+- In **Build → Generate Signed Bundle / APK… → APK → Next → Create new…**, crea un nuovo keystore di release.
+- Conserva il file keystore e le password in modo sicuro. Non caricare mai la chiave privata su GitHub né inviarla in chat.
+- Poiché la nuova firma è diversa dalle vecchie build, gli utenti devono disinstallare la vecchia app prima di installare questa versione. La disinstallazione può cancellare dati locali, incluse preferenze e credenziali memorizzate.
+- Pubblica l'APK firmato nella GitHub Release con tag `v0.4.55`, asset chiamato esattamente `PandaStream.apk`.
+- Il manifest iniziale contiene `versionCode: 56` e `versionName: 0.4.55`; il popup non appare alla prima installazione perché l'app è già alla versione del manifest.
 
-La configurazione iniziale in `update.json` è `versionCode: 56` e `versionName: 0.4.55`. Il link alla release non sarà scaricabile fino a quando l'asset APK non verrà effettivamente caricato.
-
-## Pubblicare le versioni successive
+## Pubblicare gli aggiornamenti successivi
 
 Per ogni release:
-- incrementa `versionCode` e `versionName` in `app/build.gradle.kts`;
-- mantieni la stessa chiave di firma;
-- carica l'APK firmato nella release GitHub con tag corrispondente e asset chiamato `PandaStream.apk`;
-- aggiorna `update.json` con il nuovo codice versione, nome versione, URL dell'APK e note.
+- incrementa `versionCode` e aggiorna `versionName` in `app/build.gradle.kts`;
+- riutilizza sempre lo stesso keystore, alias e password della prima release con updater;
+- carica l'APK firmato in una GitHub Release con tag corrispondente e asset chiamato `PandaStream.apk`;
+- solo dopo aver verificato il download dell'APK, aggiorna `update.json` con il nuovo codice versione, nome versione, URL dell'APK e note.
 
 Esempio di URL per la versione 0.4.56:
 `https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.56/PandaStream.apk`
 
-Non pubblicare nel manifest una versione prima che il relativo APK sia stato caricato e verificato.
+Non aggiornare il manifest prima che l'APK sia stato pubblicato. Per provare il popup, crea una seconda build firmata con lo stesso keystore e un `versionCode` superiore (es. 57), caricala prima della modifica del manifest, quindi aggiorna il manifest. Non perdere mai il keystore: senza di esso le build future non potranno aggiornare normalmente le installazioni.
