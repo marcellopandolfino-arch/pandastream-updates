@@ -1,6 +1,6 @@
 {
-  "versionCode": 77,
-  "versionName": "0.4.76",
-  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.76/PandaStream.apk",
-  "releaseNotes": "Aggiornamento Sport: collegamento della funzione Dove vederla ai dati del server e associazione ai canali Live disponibili."
+  "versionCode": 78,
+  "versionName": "0.4.77",
+  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.77/PandaStream.apk",
+  "releaseNotes": "Correzione Dove vederla nel Match Center: priorità ai dati del server, ricerca più rapida e riconoscimento dei nomi alternativi delle squadre."
 }
