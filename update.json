@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "0.4.60",
-  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.60/PandaStream.apk",
-  "releaseNotes": "Miglioramenti alla login con telecomando e grafica Top 10 Premium. Include le migliorie Sport della versione precedente."
+  "versionCode": 68,
+  "versionName": "0.4.67",
+  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.67/PandaStream.apk",
+  "releaseNotes": "Home premium: card cinematografiche con espansione al focus, logo del titolo e immagine panoramica per Film e Serie di tendenza."
 }
