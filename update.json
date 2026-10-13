@@ -1,6 +1,6 @@
 {
-  "versionCode": 68,
-  "versionName": "0.4.67",
-  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.67/PandaStream.apk",
-  "releaseNotes": "Home premium: card cinematografiche con espansione al focus, logo del titolo e immagine panoramica per Film e Serie di tendenza."
+  "versionCode": 73,
+  "versionName": "0.4.72",
+  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.72/PandaStream.apk",
+  "releaseNotes": "Miglioramenti al carosello cinematografico: focus fisso, scorrimento continuo dei titoli e logo TMDB nella card panoramica."
 }
