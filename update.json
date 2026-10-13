@@ -1,6 +1,6 @@
 {
-  "versionCode": 73,
-  "versionName": "0.4.72",
-  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.72/PandaStream.apk",
-  "releaseNotes": "Miglioramenti al carosello cinematografico: focus fisso, scorrimento continuo dei titoli e logo TMDB nella card panoramica."
+  "versionCode": 77,
+  "versionName": "0.4.76",
+  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.76/PandaStream.apk",
+  "releaseNotes": "Aggiornamento Sport: collegamento della funzione Dove vederla ai dati del server e associazione ai canali Live disponibili."
 }
