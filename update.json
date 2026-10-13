@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "0.4.55",
-  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.55/PandaStream.apk",
-  "releaseNotes": "Prima versione con predisposizione agli aggiornamenti automatici. Miglioramenti EPG e Sport."
+  "versionCode": 57,
+  "versionName": "0.4.56",
+  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.56/Pandastream.apk",
+  "releaseNotes": "Migliorie Sport: calendario per giornate con card orizzontali compatte, Match Center a due colonne e loghi delle competizioni."
 }
