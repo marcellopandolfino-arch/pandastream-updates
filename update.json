@@ -1,6 +1,6 @@
 {
-  "versionCode": 93,
-  "versionName": "0.4.92",
-  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.92/PandaStream.apk",
-  "releaseNotes": "Home personalizzata con consigli più rigorosi per genere e Profilo Bambini con filtro catalogo lato server e Sport disabilitato. Correzioni di compilazione."
+  "versionCode": 94,
+  "versionName": "0.4.93",
+  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.93/PandaStream.apk",
+  "releaseNotes": "Ottimizzazione del buffering Live: finestra di buffer 30–50 secondi, target memoria aumentato e ripresa più graduale dopo rebuffer."
 }
