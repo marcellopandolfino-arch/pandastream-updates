@@ -1,6 +1,6 @@
 {
-  "versionCode": 106,
-  "versionName": "0.4.105",
-  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.105/PandaStream.apk",
-  "releaseNotes": "Impostazioni con hero cinematografica full screen e sfumatura nera a sinistra; riquadri e testi più compatti; dialogo premium per rimuovere contenuti da Continua a guardare."
+  "versionCode": 109,
+  "versionName": "0.4.108",
+  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.108/PandaStream.apk",
+  "releaseNotes": "Hero cinematografiche animate per Film e Serie, con transizioni fluide; immagini delle news Sport con selezione delle sorgenti ad alta risoluzione e decodifica migliorata."
 }
