@@ -1,6 +1,6 @@
 {
-  "versionCode": 101,
-  "versionName": "0.4.100",
-  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.100/PandaStream.apk",
-  "releaseNotes": "Hero cinematica con dissolvenza e movimento dello sfondo; correzione del caricamento iniziale del title logo."
+  "versionCode": 103,
+  "versionName": "0.4.102",
+  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.102/PandaStream.apk",
+  "releaseNotes": "Menu Audio e Sottotitoli VOD più compatto con pannello laterale semitrasparente; gestione profili con modifica avatar e nuovo catalogo di avatar."
 }
