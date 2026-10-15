@@ -1,6 +1,6 @@
 {
-  "versionCode": 94,
-  "versionName": "0.4.93",
-  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.93/PandaStream.apk",
-  "releaseNotes": "Ottimizzazione del buffering Live: finestra di buffer 30–50 secondi, target memoria aumentato e ripresa più graduale dopo rebuffer."
+  "versionCode": 101,
+  "versionName": "0.4.100",
+  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.100/PandaStream.apk",
+  "releaseNotes": "Hero cinematica con dissolvenza e movimento dello sfondo; correzione del caricamento iniziale del title logo."
 }
