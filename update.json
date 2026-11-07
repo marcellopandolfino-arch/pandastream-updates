@@ -1,6 +1,6 @@
 {
-  "versionCode": 111,
-  "versionName": "0.4.110",
-  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/v0.4.110/PandaStream.apk",
-  "releaseNotes": "Interfaccia multilingua Italiano, Inglese, Francese, Tedesco e Spagnolo; traduzione dei pulsanti Riproduci e Aggiungi alla mia lista, oltre alle voci principali dell'interfaccia."
+  "versionCode": 123,
+  "versionName": "0.4.122",
+  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/0.4.122/PandaStream.apk",
+  "releaseNotes": "Correzione dell'errore di login."
 }
