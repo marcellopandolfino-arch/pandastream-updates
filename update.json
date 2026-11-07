@@ -1,6 +1,6 @@
 {
-  "versionCode": 123,
-  "versionName": "0.4.122",
-  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/0.4.122/PandaStream.apk",
-  "releaseNotes": "Correzione dell'errore di login."
+  "versionCode": 124,
+  "versionName": "0.4.123",
+  "apkUrl": "https://github.com/marcellopandolfino-arch/pandastream-updates/releases/download/0.4.123/PandaStream.apk",
+  "releaseNotes": "Risolti problemi di accesso. Seguiranno aggiornamenti."
 }
